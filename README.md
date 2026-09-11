@@ -41,12 +41,6 @@ I'm a full stack developer with a growing focus on AI — building web apps with
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abroraxmedov04&theme=tokyonight" height="160" />
 </p>
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abroraxmedov04&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect
